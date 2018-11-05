@@ -17,3 +17,4 @@ README
 |9|`OpenCV实战手册`|[OpenCV实战](链接待定)|
 |10|`面试常见问题总结`|[面试常见问题总结](链接待定)|
 |11|`我的深度学习历程`|[千锤百炼](链接待定)|
+|12|`计算机视觉近一年的成果总结`|[综述篇](https://github.com/computervisionlearner/Start_DeepLearning/blob/master/AYearofComputerVisionPDF.pdf)|
