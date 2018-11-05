@@ -8,9 +8,9 @@ README
 |---|----|-----|
 |1|`cpp实现面试中重要算法`|[代码链接](https://github.com/computervisionlearner/CppCode)|
 |2|`机器学习五本书`|[机器学习五本书](https://pan.baidu.com/s/1tT_pX4pPF7N8edlkwsY-Jw)|
-|3|`leetcode刷题`|[请戳这里](https://github.com/computervisionlearner/leetcode)|
-|4|`TensorFlow实战`|[请戳这里](https://pan.baidu.com/s/1l6IsLWcUmk4osJw7MD2zbg)|
-|5|`TensorFlow实战Google深度学习框架`|[请戳这里](https://pan.baidu.com/s/1WaNF4ynZ9FgwBSZwHImnFA)|
+|3|`leetcode刷题`|[python版](https://github.com/computervisionlearner/leetcode)|
+|4|`TensorFlow实战`|[百度网盘链接](https://pan.baidu.com/s/1l6IsLWcUmk4osJw7MD2zbg)|
+|5|`TensorFlow实战Google深度学习框架`|[百度网盘链接](https://pan.baidu.com/s/1WaNF4ynZ9FgwBSZwHImnFA)|
 |6|`深度学习花书`|[链接待定](链接待定)|
 |7|`机器学习-周志华`|[链接待定](链接待定)|
 |8|`解析深度学习网络——深度学习实战手册`|[TensorFlow调参技巧](链接待定)|
